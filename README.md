@@ -19,8 +19,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://komarev.com/ghpvc/?username=Shikhar2929"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shikhar2929&show_icons=true&theme=dark&locale=en&layout=compact" alt="Shikhar2929" />
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shikhar2929&show_icons=true&theme=dark&locale=en" alt="Shikhar2929" />
-<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shikhar2929&theme=dark" alt="Shikhar2929" />
