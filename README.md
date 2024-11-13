@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am a CS Student at Georgia Tech. I am extremely interested in Machine Learning, Artificial Intelligence, and Quantitative Finance.
-Languages: C/C++, Python, Java, HTML, Flutter, and Dart. 
+I am a CS + Math Student at Georgia Tech. I am extremely interested in Machine Learning, Artificial Intelligence, and Quantitative Finance.
+Languages: C/C++, Python, Java, JavaScript
 
 <!--
 **Shikhar2929/Shikhar2929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
